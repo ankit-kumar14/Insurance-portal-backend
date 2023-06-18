@@ -8,6 +8,7 @@ This project provides an API for calculating insurance premiums based on user in
      `git clone https://github.com/your-username/insurance-premium-api.git`
 
 2. Install the required dependencies: pip install -r `Flask` `pymongo` `python-dotenv`
+3. Add this dataSet into your colloection : https://drive.google.com/file/d/19L0oQ7TG2yor0MpirOfUmUBi5-e128V1/view
 
 ## Usage
 
@@ -33,7 +34,7 @@ This project provides an API for calculating insurance premiums based on user in
     
     Example Response: 
     `{
-    "premium": 22936
+    "premium": 22933.0
     }`
     
     
